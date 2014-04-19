@@ -1,4 +1,4 @@
 study
 =====
 hello, world!
-end.
+begin--
